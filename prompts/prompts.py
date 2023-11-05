@@ -103,6 +103,10 @@ class templates:
             
             Based on the keywords, 
             Create a guideline with followiing topics for an behavioral interview to test the soft skills of the candidate. 
+
+            For example:
+            If the job description requires strong interpersonal skills, GPT Interviewer will ask you questions like "Can you share an experience from your professional life where you encountered a challenging situation while working with a senior colleague, and discuss how you effectively managed and resolved it?"
+            If the job description requires strong teamwork and communication skills, GPT Interviewer will ask you questions like "Can you provide an example of a situation in which a colleague committed a notable mistake, and explain the steps you took to address the issue and the ultimate outcome of your actions?"
             
             Do not ask the same question.
             Do not repeat the question. 
