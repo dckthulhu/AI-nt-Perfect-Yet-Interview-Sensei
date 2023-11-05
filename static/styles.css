@@ -39,3 +39,7 @@
     top: 0%;
     transform: translateX(-50%);
 }
+
+#MainMenu {
+  visibility: hidden;
+}
