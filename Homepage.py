@@ -161,6 +161,8 @@ if lan ==  '中文':
                 - 开始介绍您自己吧！ """)
         if st.button("开始面试!"):
             switch_page("Resume Screen")
+
+    ##Mamma Mia!
     if selected == '行为评估':
         st.info("""
             📚在本次面试中，AI面试官将会根据您的简历评估您的技术能力。
